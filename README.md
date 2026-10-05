@@ -117,9 +117,25 @@ Wstęp do uczenia maszynowego skład się z:
   </tr>
 </tbody></table>
 
-### Schemat oceniania (suma Xp):
+### Schemat oceniania (suma 140p):
 
-TBA
+- Zajęcia laboratoryjne (80p):
+  - projekt I (12p + 12p + 28p)
+  - projekt II (16p)
+  - niezapowiedziane wejściówki (12p = 3 x 4p)
+
+- Egzamin (60p)
+
+:exclamation: Warunkiem koniecznym do dopuszczenia do egzaminu końcowego jest pomyślne ukończenie zajęć laboratoryjnych, czyli uzyskanie powyżej **50% punktów** możliwych do zdobycia.
+
+:exclamation: Warunkiem koniecznym do uzyskania pozytywnej oceny z przedmiotu jest zdobycie ponad **50% punktów** możliwych do uzyskania z egzaminu pisemnego.
+
+Ocena końcowa ustalana jest na podstawie sumy punktów uzyskanych z zajęć laboratoryjnych oraz egzaminu pisemnego, według poniższego przelicznika:
+
+| Ocena |  3 | 3.5 | 4 | 4.5 | 5 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Punkty   | (70, 84] | (84, 98] | (98, 112] | (112, 126] | (126, ∞) |
+
 
 ### Literatura
 
