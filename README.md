@@ -28,7 +28,7 @@ Wstęp do uczenia maszynowego skład się z:
   <tr>
     <td>7-10<br>8-10</td>
     <td>1</td>
-    <td>Wstęp do przedmiotu, eksploracyjna analiza danych, drzewa regresyjne i metryki regresji</td>
+    <td><a href="https://github.com/kozaka93/2026Z-MachineLearning/tree/main/labs/lab01">Wstęp do przedmiotu, eksploracyjna analiza danych, drzewa regresyjne i metryki regresji</a></td>
     <td></td>
   </tr>
   <tr>
