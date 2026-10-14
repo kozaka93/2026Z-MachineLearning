@@ -34,7 +34,7 @@ Wstęp do uczenia maszynowego skład się z:
   <tr>
     <td>14-10<br>15-10</td>
     <td>2</td>
-    <td>Drzewa regresyjne i klasyfikacyjne, macierz pomyłek, metryki klasyfikacji</td>
+    <td><a href="https://github.com/kozaka93/2026Z-MachineLearning/tree/main/labs/lab02">Drzewa regresyjne i klasyfikacyjne, macierz pomyłek, metryki klasyfikacji</a></td>
     <td></td>
   </tr>
   <tr>
