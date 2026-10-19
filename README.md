@@ -40,7 +40,7 @@ Wstęp do uczenia maszynowego skład się z:
   <tr>
     <td>21-10<br>22-10</td>
     <td>3</td>
-    <td>Przycinanie drzew, ROC/AUC, Precision/Recall, walidacja krzyżowa i dobór hiperparametrów</td>
+    <td><a href="https://github.com/kozaka93/2026Z-MachineLearning/tree/main/labs/lab03">Przycinanie drzew, ROC/AUC, Precision/Recall, walidacja krzyżowa i dobór hiperparametrów</a></td>
     <td></td>
   </tr>
   <tr>
