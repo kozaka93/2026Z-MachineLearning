@@ -46,7 +46,7 @@ Wstęp do uczenia maszynowego skład się z:
   <tr>
     <td>28-10<br>29-10</td>
     <td>4</td>
-    <td>Regresja liniowa i logistyczna, intro do pipeline'ów </td>
+    <td><a href="https://github.com/kozaka93/2026Z-MachineLearning/tree/main/labs/lab04">Regresja liniowa i logistyczna, intro do pipeline'ów </a></td>
     <td></td>
   </tr>
   <tr>
