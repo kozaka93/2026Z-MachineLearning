@@ -52,7 +52,7 @@ Wstęp do uczenia maszynowego skład się z:
   <tr>
     <td>04-11<br>05-11</td>
     <td>5</td>
-    <td><a href="https://github.com/kozaka93/2026Z-MachineLearning/tree/main/labs/lab04">Przygotowanie danych, pipeline oraz reprodukowalność wyników</a></td>
+    <td><a href="https://github.com/kozaka93/2026Z-MachineLearning/tree/main/labs/lab05">Przygotowanie danych, pipeline oraz reprodukowalność wyników</a></td>
     <td>P1 KM1 (12p)</td>
   </tr>
   <tr>
