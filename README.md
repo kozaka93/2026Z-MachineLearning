@@ -58,7 +58,7 @@ Wstęp do uczenia maszynowego skład się z:
   <tr>
     <td>12-11<br>13-11</td>
     <td>6</td>
-    <td>Powrót do pipeline'ów, regularyzacja regresji logistycznej: L1, L2 </td>
+    <td><a href="https://github.com/kozaka93/2026Z-MachineLearning/tree/main/labs/lab06">Powrót do pipeline'ów, regularyzacja regresji logistycznej: L1, L2 </a></td>
     <td></td>
   </tr>
   <tr>
