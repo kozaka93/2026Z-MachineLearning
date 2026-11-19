@@ -64,13 +64,13 @@ Wstęp do uczenia maszynowego skład się z:
   <tr>
     <td>18-11<br>19-11</td>
     <td>7</td>
-    <td>Elastic Net, maszyny wektorów podpierających (SVM)</td>
+    <td><a href="https://github.com/kozaka93/2026Z-MachineLearning/tree/main/labs/lab07">Elastic Net, maszyny wektorów podpierających (SVM)</a></td>
     <td></td>
   </tr>
   <tr>
     <td>25-11<br>26-11</td>
     <td>8</td>
-    <td>Naiwny Bayes, K najbliższych sąsiadów (kNN)</td>
+    <td><a href="https://github.com/kozaka93/2026Z-MachineLearning/tree/main/labs/lab08">Naiwny Bayes, K najbliższych sąsiadów (kNN)</a></td>
     <td>P1 KM2 (12p)</td>
   </tr>
   <tr>
